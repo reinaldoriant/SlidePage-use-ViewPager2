@@ -1,10 +1,12 @@
 # SlidePage-use-ViewPager2
 This is a sample of how to create the easy of slide page and use ViewPager2 and Fragment.
 
+##Demo Video :
+
 ![materialdots](https://media.giphy.com/media/Uy0ckJVoA3QivZOYa1/giphy.gif)
 
 
-## TODO
+## TO DO :
 
 
 - The first stage, we have to create a project first. Create a new project with a name Slide Page

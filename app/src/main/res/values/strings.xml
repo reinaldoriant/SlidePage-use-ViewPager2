@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">SlidePage</string>
+    <string name="but_next">Next</string>
+    <string name="but_finish">Finish</string>
+    <string name="text_sad">Sad</string>
+    <string name="text_tired">Tired</string>
+    <string name="text_angry">Angry</string>
+    <string name="text_rest">You need rest</string>
+    <string name="text_question_name">What is your name?</string>
+    <string name="text_input_name">Input your name</string>
+    <string name="text_hi">Hi</string>
+    <string name="text_happy">Let us be happy!!</string>
+    <string name="text_sad_detail">is feeling or showing sorrow</string>
+    <string name="text_tired_detail">in need of sleep or rest</string>
+    <string name="text_angry_detail">is feeling or showing strong annoyance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
